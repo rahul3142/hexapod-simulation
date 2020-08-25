@@ -1,7 +1,7 @@
 import numpy as np
 import random
 from pyeasyga import pyeasyga
-from Body_5 import evolve_gaits
+from hexapod_body import evolve_gaits
 
 
 data = np.arange(0,42,1)
